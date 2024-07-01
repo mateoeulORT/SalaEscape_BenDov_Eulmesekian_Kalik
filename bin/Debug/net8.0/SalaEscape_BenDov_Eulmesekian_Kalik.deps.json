@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SalaEscape_BenDov_Eulmesekian_Kalik/1.0.0": {
+        "runtime": {
+          "SalaEscape_BenDov_Eulmesekian_Kalik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SalaEscape_BenDov_Eulmesekian_Kalik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

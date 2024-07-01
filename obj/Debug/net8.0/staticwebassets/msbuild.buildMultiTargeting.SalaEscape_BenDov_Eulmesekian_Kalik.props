@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SalaEscape_BenDov_Eulmesekian_Kalik.props" />
+</Project>

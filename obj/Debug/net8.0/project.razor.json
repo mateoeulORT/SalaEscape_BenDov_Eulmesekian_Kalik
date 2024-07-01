@@ -19329,13 +19329,33 @@
   "RootNamespace": "SalaEscape_BenDov_Eulmesekian_Kalik",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Home\\Victoria.cshtml",
+      "TargetPath": "Views\\Home\\Victoria.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Home\\Habitacion1.cshtml",
+      "TargetPath": "Views\\Home\\Habitacion1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Home\\Creditos.cshtml",
+      "TargetPath": "Views\\Home\\Creditos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\Views\\Home\\Tutorial.cshtml",
+      "TargetPath": "Views\\Home\\Tutorial.cshtml",
       "FileKind": "mvc"
     },
     {
