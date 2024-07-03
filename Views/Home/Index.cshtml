@@ -1,17 +1,25 @@
 ﻿@{
     ViewData["Title"] = "Index";
+    <link rel="stylesheet" href="wwwroot/site.css">
 }
 
-<div>
-    <h1>CELDA 13</h1>
 
-</div>  
+<header>
+    <div>
+    <img src="../images/logo.png" alt="logo">
+    </div> 
+</header>
+ 
+ <section class="imagenFondo"> </section>
 
+<main>
+    <section class="index">
+        <div>
+            <h2> <a href='@Url.Action("Habitacion", "HomeController", new{sala = 1})'>JUGAR</a> </h2>
+        </div>  
 
-<div>
-    <h2> <a href='@Url.Action("Habitacion", "HomeController", new{sala = 1})'>JUGAR</a> </h2>
-</div>  
-
-<div>
-    <h2> <a href='@Url.Action("Tutorial", "HomeController")'>TUTORIAL</a> </h2>
-</div>  
+        <div>
+            <h2> <a href='@Url.Action("Tutorial", "HomeController")'>TUTORIAL</a> </h2>
+        </div>  
+    </section>
+</main>

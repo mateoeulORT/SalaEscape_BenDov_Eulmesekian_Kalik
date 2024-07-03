@@ -45,12 +45,12 @@ public class HomeController : Controller
 
 
     }
-
     IActionResult Comenzar()
     {
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
+    
 
 
 }

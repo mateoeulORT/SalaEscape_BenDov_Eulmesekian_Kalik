@@ -21,3 +21,26 @@ footer {
   background-color: #f8f9fa;
   border-top: 1px solid #e9ecef;
 }
+
+
+body{
+  background-image: url(../images/fondoIndex.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+header{
+  display: flex;
+  justify-content: center;
+}
+.index div{
+  margin: 1px solid white;
+  padding-right: 20%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+.index a{
+  font-style: none;
+  font-style: normal;
+  color: white;
+}
