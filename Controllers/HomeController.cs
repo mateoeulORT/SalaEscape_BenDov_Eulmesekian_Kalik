@@ -18,12 +18,12 @@ public class HomeController : Controller
     {
         return View();
     }
-    IActionResult Tutorial()
+    public IActionResult Tutorial()
     {
         return View();
     }   
 
-    IActionResult Habitacion(int sala, string clave)
+    public IActionResult Habitacion(int sala, string clave)
     {
         if (sala != Escape.GetEstadoJuego())
         {
@@ -45,7 +45,7 @@ public class HomeController : Controller
 
 
     }
-    IActionResult Comenzar()
+    public IActionResult Comenzar()
     {
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
