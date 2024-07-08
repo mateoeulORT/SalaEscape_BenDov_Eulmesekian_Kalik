@@ -9,6 +9,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\celda.jfif",
+      "PackagePath": "staticwebassets\\images\\celda.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\comedor.jpg",
+      "PackagePath": "staticwebassets\\images\\comedor.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\duchas.jfif",
+      "PackagePath": "staticwebassets\\images\\duchas.jfif"
+    },
+    {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.jpg",
+      "PackagePath": "staticwebassets\\images\\fondoIndex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tiopa.jpg",
+      "PackagePath": "staticwebassets\\images\\tiopa.jpg"
+    },
+    {
       "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

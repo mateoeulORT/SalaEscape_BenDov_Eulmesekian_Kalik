@@ -3,23 +3,43 @@
     <link rel="stylesheet" href="wwwroot/site.css">
 }
 
+<body>
+        
 
-<header>
-    <div>
-    <img src="../images/logo.png" alt="logo">
-    </div> 
-</header>
- 
- <section class="imagenFondo"> </section>
-
-<main>
-    <section class="index">
+    <header>
         <div>
-            <h2> <a href='@Url.Action("Habitacion", "HomeController", new{sala = 1})'>JUGAR</a> </h2>
-        </div>  
+        <img src="../images/logo.png" alt="logo">
+        </div> 
+    </header>
+    
+    <section class="imagenFondo"> </section>
 
-        <div>
-            <h2> <a href='@Url.Action("Tutorial", "HomeController")'>TUTORIAL</a> </h2>
-        </div>  
-    </section>
-</main>
+    <main>
+        <section class="index">
+            <div>
+                <h2> <a href='Habitacion1'>JUGAR</a> </h2>
+            </div>  
+
+            <div>
+                <h2> <a href='@Url.Action("Tutorial", "HomeController")'>TUTORIAL</a> </h2>
+            </div>  
+        </section>
+
+
+        <section class="imgDescripcion">
+            <div>
+                <img src="../images/celda.jfif" alt="">
+                <img src="../images/duchas.jfif" alt="">
+            </div>
+
+            <div class="abajo">
+                <img src="../images/comedor.jpg" alt="">
+            </div>
+            
+            
+        </section>
+
+
+    </main>
+    
+</body>

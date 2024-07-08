@@ -14,15 +14,6 @@ body {
   padding: 10px;
 }
 
-
-footer {
-  margin-top: 10px;
-  padding: 10px;
-  background-color: #f8f9fa;
-  border-top: 1px solid #e9ecef;
-}
-
-
 body{
   background-image: url(../images/fondoIndex.jpg);
   background-repeat: no-repeat;
@@ -32,15 +23,42 @@ body{
 header{
   display: flex;
   justify-content: center;
+  align-items: center;
+  
 }
+
 .index div{
-  margin: 1px solid white;
-  padding-right: 20%;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  display: flex;
+  justify-content: center;
 }
 .index a{
   font-style: none;
   font-style: normal;
   color: white;
+}
+
+.imgDescripcion{
+  display: flex;
+  flex-direction: column;
+}
+
+.imgDescripcion img{
+  width: 25%;
+  height: 300px;
+}
+
+.imgDescripcion img{
+  float:left;
+  margin-right: 3%;
+  filter: brightness(0.7);
+}
+.imgDescripcion .abajo{
+  clear: both;
+  margin-top: 3%;
+
+}
+
+footer{
+  clear: both;
+  margin-top: 10%;
 }
