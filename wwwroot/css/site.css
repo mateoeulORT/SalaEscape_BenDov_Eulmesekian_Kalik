@@ -69,3 +69,36 @@ footer{
   clear: both;
   margin-top: 10%;
 }
+
+
+
+
+/*    HABITACION 1     */ 
+.Hab1 header{
+  color: white;
+  text-align: center;
+}
+
+.Hab1 button{
+  margin-left: 47%;
+  margin-top: 17%;
+
+  padding-right: 5%;
+  padding-top: 2%;
+  opacity: 0.8; 
+}
+
+.Hab1 button:hover{
+  opacity: 0.01;
+}
+
+.Hab1 p{
+  width: 60%;
+  color: white;
+  font-size: larger;
+  font-style: italic;
+}
+
+
+
+

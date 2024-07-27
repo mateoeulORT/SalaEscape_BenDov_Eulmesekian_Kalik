@@ -27,3 +27,32 @@ C:\Users\48044168\Downloads\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0
 C:\Users\48044168\Downloads\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.pdb
 C:\Users\48044168\Downloads\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.genruntimeconfig.cache
 C:\Users\48044168\Downloads\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\ref\SalaEscape_BenDov_Eulmesekian_Kalik.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.exe
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.deps.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.runtimeconfig.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\bin\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.pdb
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.sourcelink.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets\msbuild.SalaEscape_BenDov_Eulmesekian_Kalik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets\msbuild.build.SalaEscape_BenDov_Eulmesekian_Kalik.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.SalaEscape_BenDov_Eulmesekian_Kalik.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.SalaEscape_BenDov_Eulmesekian_Kalik.props
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\scopedcss\bundle\SalaEscape_BenDov_Eulmesekian_Kalik.styles.css
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\refint\SalaEscape_BenDov_Eulmesekian_Kalik.dll
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.pdb
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\SalaEscape_BenDov_Eulmesekian_Kalik.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\SalaEscape_BenDov_Eulmesekian_Kalik\obj\Debug\net8.0\ref\SalaEscape_BenDov_Eulmesekian_Kalik.dll
