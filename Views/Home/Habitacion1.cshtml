@@ -4,13 +4,14 @@
 }
 
 <body class="Hab1">
-        
 
     <header>
         <div>
         <h1>CELDA</h1>
         <h3>Deberás encontrar una carta de tu compañero de celda, que te revelará la información necesaria para salir.</h3 >
-        <p>@Html.Raw(ViewBag.Error)</p>
+        @if(ViewBag.On == true){
+            <audio controls> <source src="~/sounds/escape.mp3" type="audio/mpeg"></audio>
+        }
         </div> 
     </header>
     
@@ -26,10 +27,11 @@
         <button type="input"></button>
     </form>
     
-    <form action="@Url.Action("Habitacion")">
+    <form class="envio" action="@Url.Action("Habitacion")">
         <input type="hidden" name="sala" value="1" />
         <input type="text" name="clave"  placeholder="Respuesta...">
         <input type="submit" value="Validar">
     </form>
+    <h2>@Html.Raw(ViewBag.Error)</h2>
 
 </body>

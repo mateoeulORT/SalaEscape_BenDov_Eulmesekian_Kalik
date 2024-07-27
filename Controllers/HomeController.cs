@@ -59,9 +59,10 @@ public class HomeController : Controller
     
     public IActionResult MostrarCarta()
     {
+        ViewBag.On = true;
         ViewBag.Parrafo1 = "<p>Compañero de celda,</p>";
         ViewBag.Parrafo2 = "<p>La luz de la luna se cuela por los barrotes, y con ella viene un mensaje oculto. En el eco de los pasos del guardia, cada golpe de su bastón contra el suelo es una clave. Un golpe fuerte es un 1, un golpe suave es un 0.</p>";
-        ViewBag.Parrafo3 = "<p>Por ejemplo, tres golpes fuertes seguidos de tres golpes suaves te darán la clave para nuestra fuga. Descifra la secuencia de los golpes y conviértela a ese formato antiguo que simboliza el número 16. Solo así podrás abrir la puerta de nuestra libertad.</p>";
+        ViewBag.Parrafo3 = "<p>Descifra la secuencia de los golpes y conviértela a ese formato antiguo que simboliza el número 16. Solo así podrás abrir la puerta de nuestra libertad.</p>";
         ViewBag.Parrafo4 = "<p>Con esperanza, Tu confidente </p>";
         return View("Habitacion1");
     }

@@ -1,1 +1,23 @@
-<h1>HOLLAAA</h1>
+<body class="Hab2">
+
+    <header>
+        <div>
+            <h1>BAÑO</h1>
+            <h3>--</h3 >
+        </div> 
+    </header>
+
+    <form action="@Url.Action("MostrarCarta")" method="get">
+        <button type="input"></button>
+    </form>
+    
+
+    
+    <form class="envio" action="@Url.Action("Habitacion")">
+        <input type="hidden" name="sala" value="1" />
+        <input type="text" name="clave"  placeholder="Respuesta...">
+        <input type="submit" value="Validar">
+    </form>
+    <h2>@Html.Raw(ViewBag.Error)</h2>
+
+</body>
