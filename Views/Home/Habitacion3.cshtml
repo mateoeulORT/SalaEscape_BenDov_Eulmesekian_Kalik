@@ -1,0 +1,21 @@
+<body class="Hab3">
+    
+    <header>
+        <div>
+            <h1>COMEDOR</h1>
+            <h3>Una herramienta oculta te ayudará a escapar.</h3 >
+        </div> 
+    </header>
+
+    <img src="../images/martillo.png" alt="">
+
+    <form class="envio" action="@Url.Action("Habitacion")">
+        <input type="hidden" name="sala" value="3" />
+        <input type="text" name="clave"  placeholder="Respuesta...">
+        <input type="submit" value="Validar">
+    </form>
+    <h2>@Html.Raw(ViewBag.Error)</h2>
+
+
+
+</body>

@@ -3,6 +3,7 @@ html {
   min-height: 100%;
 }
 
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -24,13 +25,6 @@ body{
   background-repeat: no-repeat;
   background-size:100%;
 
-}
-
-.Hab2{
-  background-image: url(../images/baño.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 }
 
 
@@ -86,9 +80,12 @@ footer{
   color: white;
   text-align: center;
 }
+.Hab1 p{
+  text-align: justify;
+}
 
 .Hab1 button{
-  margin-left: 47%;
+  margin-left: 0%;
   margin-top: 17%;
 
   padding-right: 5%;
@@ -97,7 +94,7 @@ footer{
 }
 
 .Hab1 button:hover{
-  opacity: 0.01;
+  opacity: 0.02;
 }
 
 .Hab1 p{
@@ -125,16 +122,27 @@ footer{
   border-radius: 4px;
 }
 
-.Hab1 h2{
+h2{
   display: flex;
   justify-content: center;
   color: red;
 }
 
 /*   HABITACION 2    */
-.Hab2 button{
-  padding-top: 3%;
-  padding-right: 0;
+.Hab2{
+  background-image: url(../images/baño.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  position: relative; 
+}
+
+
+.botones button{
+  position: absolute;
+  width: 0;
+  height: 6.5%;
   opacity: 0;
   background-color:cyan;
   border-radius: 1px;
@@ -143,42 +151,29 @@ footer{
   opacity: 0.2;
 }
 
-.boton1{
-  margin-top: 28%;
-  margin-left: 38%;
-}
-.boton1 button{
-  padding-bottom: 1%;
+.boton1 {
+  top: 75%; /* Ajustar posición verticalmente */
+  left: 31.5%; /* Ajustar posición horizontalmente */
 }
 
 .boton2{
-  margin-left: 36.2%;
+  top: 67%; /* Ajustar posición verticalmente */
+  left: 35%; /* Ajustar posición horizontalmente */
 }
-.boton2 button{
-  padding-bottom: 1%;
-}
-
 
 .boton3{
-  margin-left: 32.6%;
+  top: 60%; /* Ajustar posición verticalmente */
+  left: 38%; /* Ajustar posición horizontalmente */
 }
-.boton3 button{
-  padding-bottom: 1%;
-}
-
 
 .boton4{
-  margin-top: 0.5%;
-  margin-left: 28.4%;
+  top: 55%; /* Ajustar posición verticalmente */
+  left: 39.5%; /* Ajustar posición horizontalmente */
 }
-.boton4 button{
-  padding-bottom: 1.5%;
-  padding-left: 1%;
-}
-
 
 
 .contenedor-ventana{
+  height: 100%;
   display: flex;
   justify-content: center;
 }
@@ -190,6 +185,7 @@ footer{
   border-radius: 5px;
   width: 30%;
   background-color: beige;
+  box-sizing: border-box;
 
 } 
 .ventana h1{
@@ -197,13 +193,40 @@ footer{
 }
 .ventana button{
   position: absolute;
+
+  width: auto;
+  height: auto;
+
   right: 0;
   background-color: red;
   color: white;
   border: none;
-  padding: 5px;
   cursor: pointer;
   border-radius: 5px;
   opacity: 1;
 
 }
+
+
+/*    ------------------ HABITACION 3 ---------------------   */
+.Hab3{
+  background-image: url(../images/comedor.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  position: relative; 
+}
+
+.Hab3 img{
+  position: absolute;
+  width: 3%;
+  height: auto;
+
+  left: 23%;
+  top: 48%;
+}
+
+
+
+

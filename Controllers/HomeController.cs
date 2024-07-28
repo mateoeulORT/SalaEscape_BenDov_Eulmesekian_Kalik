@@ -50,13 +50,17 @@ public class HomeController : Controller
             return View("Habitacion" + sala); 
         }
 
-        }
+    }
+
+
+
     public IActionResult Comenzar()
     {
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
     
+
     public IActionResult MostrarCarta()
     {
         ViewBag.On = true;
@@ -74,22 +78,18 @@ public class HomeController : Controller
         if (grifo == "grifo1")
         {
             ViewBag.Letra = "X";
-            ViewBag.Posicion = "2";
         }
         else if (grifo == "grifo2")
         {
             ViewBag.Letra = "T";
-            ViewBag.Posicion = "4";
         }
         else if (grifo == "grifo3")
         {
             ViewBag.Letra = "E";
-            ViewBag.Posicion = "1";
         }
         else if (grifo == "grifo4")
         {
             ViewBag.Letra = "I";
-            ViewBag.Posicion = "3";
         }
 
         return View("Habitacion2");
