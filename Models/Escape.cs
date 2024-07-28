@@ -4,7 +4,7 @@ class Escape{
     const int cantSalas = 5;
 
     private static void InicializarJuego(){
-        IncognitasSalas = new string[cantSalas] {"3A", "EXIT", "a", "a", "a"};
+        IncognitasSalas = new string[cantSalas] {"3A", "EXIT", "PATIO", "a", "a"};
     }    
 
     public static int GetEstadoJuego() {

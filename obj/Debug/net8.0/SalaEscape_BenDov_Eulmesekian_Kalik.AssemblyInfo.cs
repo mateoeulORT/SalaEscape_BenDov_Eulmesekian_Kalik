@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalaEscape_BenDov_Eulmesekian_Kalik")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28382b33838709d8aa5976b81151a052644bcaf7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08065f1d8b98fd1095fc0bd0d370f51c565b5636")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalaEscape_BenDov_Eulmesekian_Kalik")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalaEscape_BenDov_Eulmesekian_Kalik")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "q7gxlOTfZ9QdWsp8StCtZaVRvv2N99KC99qYBZPv8rE=",
+  "Hash": "H+rP0GjxGQiA6okWjNwjYzs8TxQf/veiUOxflymjQWk=",
   "Source": "SalaEscape_BenDov_Eulmesekian_Kalik",
   "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
   "Mode": "Default",
@@ -167,6 +167,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\martillo.png"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
+      "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
+      "RelativePath": "images/roto.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\roto.png"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tiopa.jpg",

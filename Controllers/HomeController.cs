@@ -25,6 +25,8 @@ public class HomeController : Controller
 
     public IActionResult Habitacion(int sala, string clave)
     {
+        ViewBag.MartilloEncontrado = false;
+        ViewBag.RompioVidrio = false;
         if (sala != Escape.GetEstadoJuego())
         {
             return View("Habitacion" + Escape.GetEstadoJuego());
@@ -56,6 +58,7 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
+        ViewBag.MartilloEncontrado = false;  
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
@@ -97,6 +100,19 @@ public class HomeController : Controller
 
     public IActionResult CerrarVentana()
     {
-        return View("Habitacion2");
+        return View("Habitacion" + ViewBag.EstadoJuego);
     }
+
+    public IActionResult MartilloEncontrado(string encontrado)
+    {
+        ViewBag.MartilloEncontrado = true;   
+        return View("Habitacion3");
+    }
+
+    public IActionResult RomperVidrio()
+    {
+        ViewBag.RompioVidrio = true;
+        return View("Habitacion3");
+    }
+
 }

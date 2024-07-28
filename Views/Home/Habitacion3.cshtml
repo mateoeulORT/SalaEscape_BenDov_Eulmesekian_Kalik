@@ -7,7 +7,42 @@
         </div> 
     </header>
 
-    <img src="../images/martillo.png" alt="">
+    @if (ViewBag.RompioVidrio == true)
+    {   
+        <div class="contenedor-ventana">
+            <div class="ventana">
+                <h1>"PATIO"</h1>
+                <form action="@Url.Action("CerrarVentana")">
+                    <button type="input">X</button>
+                </form>
+            </div>
+        </div>
+    }
+
+
+    @if (ViewBag.MartilloEncontrado == false)
+    {
+        <a href="@Url.Action("MartilloEncontrado")"><img src="../images/martillo.png" alt=""></a>     
+    }
+    else
+    {
+        <h3>¡Martillo encontrado!</h3>
+
+        <form action="@Url.Action("RomperVidrio")" method="get">
+            <button type="input"></button> 
+        </form>
+    }
+    
+    
+    @if (ViewBag.RompioVidrio == true)
+    {
+        <div class="vidrio">
+            <img src="../images/roto.png" alt="">
+        </div>
+    }
+
+   
+
 
     <form class="envio" action="@Url.Action("Habitacion")">
         <input type="hidden" name="sala" value="3" />

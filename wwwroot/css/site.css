@@ -76,7 +76,7 @@ footer{
 
 /*    HABITACION 1     */ 
 
-.Hab1, .Hab2 header{
+.Hab1, .Hab2 , .Hab3 header{
   color: white;
   text-align: center;
 }
@@ -189,6 +189,7 @@ h2{
 
 } 
 .ventana h1{
+  color: black;
   margin-right: 2%;
 }
 .ventana button{
@@ -227,6 +228,28 @@ h2{
   top: 48%;
 }
 
+.Hab3 h3{
+  display: flex;
+  justify-content: center;
+}
 
+.vidrio img{
+  position: absolute;
+  top: 13%;
+  left: 73%;
+  width: 10%;
+}
 
-
+.Hab3 button{
+  background-color: black;
+  border: none;
+  position: absolute;
+  width: 20%;
+  height: 15%;
+  left: 70%;
+  top: 15%;
+  opacity: 0;
+}
+.Hab3 button:hover{
+  opacity: 0.04;
+}
