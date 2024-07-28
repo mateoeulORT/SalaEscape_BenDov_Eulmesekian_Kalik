@@ -67,5 +67,36 @@ public class HomeController : Controller
         return View("Habitacion1");
     }
 
+    public IActionResult InfoGrifos(string grifo)
+    {
+        ViewBag.Activado = true;
 
+        if (grifo == "grifo1")
+        {
+            ViewBag.Letra = "X";
+            ViewBag.Posicion = "2";
+        }
+        else if (grifo == "grifo2")
+        {
+            ViewBag.Letra = "T";
+            ViewBag.Posicion = "4";
+        }
+        else if (grifo == "grifo3")
+        {
+            ViewBag.Letra = "E";
+            ViewBag.Posicion = "1";
+        }
+        else if (grifo == "grifo4")
+        {
+            ViewBag.Letra = "I";
+            ViewBag.Posicion = "3";
+        }
+
+        return View("Habitacion2");
+    }
+
+    public IActionResult CerrarVentana()
+    {
+        return View("Habitacion2");
+    }
 }

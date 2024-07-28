@@ -3,16 +3,31 @@
     <header>
         <div>
             <h1>BAÑO</h1>
-            <h3>--</h3 >
+            <h3>Encuentra unos datos que formarán una palabra.</h3 >
         </div> 
     </header>
 
-    <form action="@Url.Action("MostrarCarta")" method="get">
-        <button type="input"></button>
+    @if (ViewBag.Activado == true)
+    {
+        <div class="contenedor-ventana">
+            <div class="ventana">
+                <h1>@Html.Raw(ViewBag.Letra) - @Html.Raw(ViewBag.Posicion)</h1>
+                
+                <form action="@Url.Action("CerrarVentana")">
+                    <button type="input">X</button>
+                </form>
+            </div>
+        </div>
+    }
+    
+    <form action="@Url.Action("InfoGrifos")" method="get">
+        <div class="boton1"> <button type="input" name="grifo" value="grifo1"> </button> </div>
+        <div class="boton2"> <button type="input" name="grifo" value="grifo2"> </button> </div>
+        <div class="boton3"> <button type="input" name="grifo" value="grifo3"> </button> </div>
+        <div class="boton4"> <button type="input" name="grifo" value="grifo4"> </button> </div>
     </form>
-    
 
-    
+
     <form class="envio" action="@Url.Action("Habitacion")">
         <input type="hidden" name="sala" value="1" />
         <input type="text" name="clave"  placeholder="Respuesta...">
