@@ -389,3 +389,54 @@ h2{
   width: 60%;
   font-size: larger;
 }
+
+
+/*------------ creditos --------------------*/
+
+.creditos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+}
+
+.creditos header div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+
+
+.creditos main {
+  width: 100%;
+}
+
+.creditos section {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  gap: 4%; 
+  flex-wrap: wrap; 
+}
+
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 150px; 
+}
+
+.contenedor img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover; 
+}
+
+.contenedor p {
+  margin-top: 10px;
+  color: white;
+}
