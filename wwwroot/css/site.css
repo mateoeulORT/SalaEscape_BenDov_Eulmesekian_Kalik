@@ -7,6 +7,10 @@ footer{
   opacity: 0;
 }
 
+.logo img{
+  width: 100%;
+}
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
@@ -19,9 +23,13 @@ body {
 }
 
 body{
-  background-image: url(../images/fondoIndex.jpg);
+  background-image: url(../images/fondoIndex.png);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+img{
+  border-radius: 10px;
 }
 
 header{
@@ -49,25 +57,24 @@ header{
 }
 
 .imgDescripcion img{
+  margin: 4%;
+  opacity: 0.8;
   width: 25%;
   height: 300px;
+
 }
 
 .imgDescripcion img{
   float:left;
-  margin-right: 3%;
+
   filter: brightness(0.7);
 }
 .imgDescripcion .abajo{
   clear: both;
-  margin-top: 3%;
+  margin-top: -2%;
 
 }
 
-footer{
-  clear: both;
-  margin-top: 10%;
-}
 
 
 
@@ -104,7 +111,7 @@ footer{
 }
 
 .Hab1 button:hover{
-  opacity: 0.02;
+  opacity: 0.04;
 }
 
 .Hab1 p{
@@ -280,16 +287,19 @@ h2{
   position: relative; 
 }
 .Hab4 header{
-  color: white; /* Prueba con naranja */
-  text-shadow: 2px 2px 4px #000000; /* Sombra de texto */
+  color: white; 
+  text-shadow: 2px 2px 4px #000000; 
 }
 
 .Hab4 img{
   width: 5%;
   position: absolute;
-  top: 61%;
-  left: 42%;
-  filter: blur(1px);
+  top: 57%;
+  left: 88%;
+  filter : blur(3px);
+  filter: brightness(0.3);
+  opacity: 0.7;
+  
 }
 .Hab4 h2{
   color: white;
@@ -329,14 +339,17 @@ h2{
   position: relative; 
 }
 .victoria{
-  display: flex;
-  justify-content: center;
+  display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  text-align: center; 
 }
 
 .victoria h1{
   color: rgb(0, 88, 0);
   display: flex;
   justify-content: center;
+
 }
 .victoria h2{
   display: flex;
@@ -369,19 +382,23 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
 }
+
 
 .tutorial main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%;
+
 }
 
-.tutorial main img {
+.imagenarda img {
   width: 70%;
   height: auto;
+}
+
+.tutorial header{
+  margin-top: 0.3%;
 }
 
 .tutorial p {
@@ -406,20 +423,15 @@ h2{
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  margin-top: 2%
 }
 
-
-
-.creditos main {
-  width: 100%;
-}
 
 .creditos section {
-  margin-top: 5%;
+  margin-top: 20%;
   display: flex;
   justify-content: center;
-  gap: 4%; 
+  gap: 25%; 
   flex-wrap: wrap; 
 }
 
@@ -431,8 +443,8 @@ h2{
 }
 
 .contenedor img {
-  width: 100%;
-  height: 160px;
+  width: 130%;
+  height: 210px;
   object-fit: cover; 
 }
 

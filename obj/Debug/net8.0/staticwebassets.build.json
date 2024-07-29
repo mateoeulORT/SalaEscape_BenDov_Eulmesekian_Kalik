@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LxVKdTyFvtUNLdrQlNHbkS4C2pumbGai4v725MlIqEE=",
+  "Hash": "y05mJYPLoo4DTR4GvY6uMrdeY6bzXjdEJk9TASKMJn0=",
   "Source": "SalaEscape_BenDov_Eulmesekian_Kalik",
   "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot",
       "Source": "SalaEscape_BenDov_Eulmesekian_Kalik",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\css\\site.css",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\favicon.ico",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\baño.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\baño.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/baño.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\images\\baño.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\celdaa.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\celdaa.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/celdaa.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\images\\celdaa.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\chechu.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\chechu.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/chechu.jpg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\images\\chechu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\ciro.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\ciro.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/ciro.jpg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ciro.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\comedor.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\comedor.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/comedor.jpg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\images\\comedor.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/cuerda.png",
       "AssetKind": "All",
@@ -169,12 +169,12 @@
       "OriginalItemSpec": "wwwroot\\images\\cuerda.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
-      "RelativePath": "images/fondoIndex.jpg",
+      "RelativePath": "images/fondoIndex.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\fondoIndex.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\fondoIndex.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\logo.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\martillo.png",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\martillo.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/martillo.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\martillo.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/patio.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\patio.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/roto.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\roto.png"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tute.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tute.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/tute.jpg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tute.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "images/victoria.jpg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\victoria.jpg"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\sounds\\escape.mp3",
+      "Identity": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\sounds\\escape.mp3",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
       "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
       "RelativePath": "sounds/escape.mp3",
       "AssetKind": "All",
