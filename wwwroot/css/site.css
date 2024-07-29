@@ -23,13 +23,6 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
 }
-.Hab1{
-  background-image: url(../images/celdaa.jpg);
-  background-repeat: no-repeat;
-  background-size:100%;
-
-}
-
 
 header{
   display: flex;
@@ -43,9 +36,11 @@ header{
   justify-content: center;
 }
 .index a{
-  font-style: none;
-  font-style: normal;
+  text-decoration: none;
   color: white;
+}
+.index a:hover{
+  text-decoration: underline;
 }
 
 .imgDescripcion{
@@ -79,6 +74,18 @@ footer{
 
 /*    HABITACION 1     */ 
 
+.Hab1{
+  background-image: url(../images/celdaa.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  position: relative; 
+
+}
+
+
+
 .Hab1, .Hab2 , .Hab3, .Hab4 header{
   color: white;
   text-align: center;
@@ -88,11 +95,11 @@ footer{
 }
 
 .Hab1 button{
-  margin-left: 0%;
-  margin-top: 17%;
-
-  padding-right: 5%;
-  padding-top: 2%;
+  position: absolute;
+  width: 6%;
+  height: 6%;
+  left: 47%;
+  top: 40%;
   opacity: 0; 
 }
 
@@ -309,4 +316,24 @@ h2{
 }
 .Hab3 div h2{
   color: red;
+}
+
+
+/* -----------VITORIA----------*/
+.victoria{
+  background-image: url(../images/victoria.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  position: relative; 
+}
+
+.victoria h1{
+  text-align: center;
+  color: rgb(68, 255, 68);
+}
+
+.victoria a{
+  font-style: none;
 }

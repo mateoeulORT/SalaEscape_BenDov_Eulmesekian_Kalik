@@ -23,6 +23,11 @@ public class HomeController : Controller
         return View();
     }   
 
+    public IActionResult Creditos()
+    {
+        return View();
+    }
+
     public IActionResult Habitacion(int sala, string clave)
     {
         ViewBag.ObjetoEncontrado = false;
@@ -59,8 +64,7 @@ public class HomeController : Controller
 
 
     public IActionResult Comenzar()
-    {
-        
+    {   
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }

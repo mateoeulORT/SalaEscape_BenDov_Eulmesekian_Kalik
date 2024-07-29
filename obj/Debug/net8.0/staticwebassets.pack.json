@@ -45,6 +45,10 @@
       "PackagePath": "staticwebassets\\images\\roto.png"
     },
     {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
+      "PackagePath": "staticwebassets\\images\\victoria.jpg"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

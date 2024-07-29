@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mDwiO/nMCgHLUBnrxFsOAuKnjouma78liYZJdplAgZQ=",
+  "Hash": "pP3trtLGdL95w6Cqv/kt8hrCJMI9nIeDgbRg382yUSg=",
   "Source": "SalaEscape_BenDov_Eulmesekian_Kalik",
   "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
   "Mode": "Default",
@@ -224,6 +224,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\roto.png"
+    },
+    {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
+      "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
+      "RelativePath": "images/victoria.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\victoria.jpg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
