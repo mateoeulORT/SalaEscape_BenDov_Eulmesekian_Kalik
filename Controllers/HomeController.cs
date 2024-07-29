@@ -25,8 +25,10 @@ public class HomeController : Controller
 
     public IActionResult Habitacion(int sala, string clave)
     {
-        ViewBag.MartilloEncontrado = false;
+        ViewBag.ObjetoEncontrado = false;
         ViewBag.RompioVidrio = false;
+        ViewBag.Escalar = false;
+
         if (sala != Escape.GetEstadoJuego())
         {
             return View("Habitacion" + Escape.GetEstadoJuego());
@@ -36,7 +38,7 @@ public class HomeController : Controller
     
         if (respuestaCorrecta)
         {
-            if (Escape.GetEstadoJuego() > 5) 
+            if (Escape.GetEstadoJuego() > 4) 
             {
                 return View("Victoria"); 
             }
@@ -58,7 +60,7 @@ public class HomeController : Controller
 
     public IActionResult Comenzar()
     {
-        ViewBag.MartilloEncontrado = false;  
+        
         ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
@@ -100,14 +102,17 @@ public class HomeController : Controller
 
     public IActionResult CerrarVentana()
     {
+        ViewBag.EstadoJuego = Escape.GetEstadoJuego();
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
 
-    public IActionResult MartilloEncontrado(string encontrado)
+    public IActionResult ObjetoEncontrado()
     {
-        ViewBag.MartilloEncontrado = true;   
-        return View("Habitacion3");
+        ViewBag.ObjetoEncontrado = true; 
+        ViewBag.EstadoJuego = Escape.GetEstadoJuego(); 
+        return View("Habitacion" + ViewBag.EstadoJuego);
     }
+
 
     public IActionResult RomperVidrio()
     {
@@ -115,4 +120,9 @@ public class HomeController : Controller
         return View("Habitacion3");
     }
 
+    public IActionResult Escalar()
+    {
+        ViewBag.Escalar = true;
+        return View("Habitacion4");
+    }
 }

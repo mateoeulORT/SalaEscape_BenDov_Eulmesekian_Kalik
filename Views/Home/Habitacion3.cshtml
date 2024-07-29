@@ -12,21 +12,18 @@
         <div class="contenedor-ventana">
             <div class="ventana">
                 <h1>"PATIO"</h1>
-                <form action="@Url.Action("CerrarVentana")">
-                    <button type="input">X</button>
-                </form>
             </div>
         </div>
     }
 
 
-    @if (ViewBag.MartilloEncontrado == false)
+    @if (ViewBag.ObjetoEncontrado == false)
     {
-        <a href="@Url.Action("MartilloEncontrado")"><img src="../images/martillo.png" alt=""></a>     
+        <a href="@Url.Action("ObjetoEncontrado")"><img src="../images/martillo.png" alt=""></a>     
     }
     else
     {
-        <h3>¡Martillo encontrado!</h3>
+        <h2>¡Martillo encontrado!</h2>
 
         <form action="@Url.Action("RomperVidrio")" method="get">
             <button type="input"></button> 
@@ -49,7 +46,7 @@
         <input type="text" name="clave"  placeholder="Respuesta...">
         <input type="submit" value="Validar">
     </form>
-    <h2>@Html.Raw(ViewBag.Error)</h2>
+    <div><h2>@Html.Raw(ViewBag.Error)</h2></div>
 
 
 

@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\comedor.jpg"
     },
     {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
+      "PackagePath": "staticwebassets\\images\\cuerda.png"
+    },
+    {
       "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.jpg",
       "PackagePath": "staticwebassets\\images\\fondoIndex.jpg"
     },
@@ -33,12 +37,12 @@
       "PackagePath": "staticwebassets\\images\\martillo.png"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
-      "PackagePath": "staticwebassets\\images\\roto.png"
+      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
+      "PackagePath": "staticwebassets\\images\\patio.jpg"
     },
     {
-      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tiopa.jpg",
-      "PackagePath": "staticwebassets\\images\\tiopa.jpg"
+      "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
+      "PackagePath": "staticwebassets\\images\\roto.png"
     },
     {
       "Id": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",

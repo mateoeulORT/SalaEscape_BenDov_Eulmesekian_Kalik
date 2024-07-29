@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H+rP0GjxGQiA6okWjNwjYzs8TxQf/veiUOxflymjQWk=",
+  "Hash": "mDwiO/nMCgHLUBnrxFsOAuKnjouma78liYZJdplAgZQ=",
   "Source": "SalaEscape_BenDov_Eulmesekian_Kalik",
   "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\images\\comedor.jpg"
     },
     {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
+      "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
+      "RelativePath": "images/cuerda.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\cuerda.png"
+    },
+    {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.jpg",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
@@ -169,6 +188,25 @@
       "OriginalItemSpec": "wwwroot\\images\\martillo.png"
     },
     {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
+      "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
+      "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
+      "RelativePath": "images/patio.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\patio.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
       "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
       "SourceType": "Discovered",
@@ -186,25 +224,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\roto.png"
-    },
-    {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tiopa.jpg",
-      "SourceId": "SalaEscape_BenDov_Eulmesekian_Kalik",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\",
-      "BasePath": "_content/SalaEscape_BenDov_Eulmesekian_Kalik",
-      "RelativePath": "images/tiopa.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\tiopa.jpg"
     },
     {
       "Identity": "C:\\Users\\Usuario\\Desktop\\Prog 4to año\\Programacion\\2do Bimestre\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",

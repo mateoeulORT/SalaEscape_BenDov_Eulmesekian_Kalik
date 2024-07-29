@@ -1,10 +1,10 @@
 class Escape{
     private static string[] IncognitasSalas {get; set;}
     private static int EstadoJuego{get; set;} = 1;
-    const int cantSalas = 5;
+    const int cantSalas = 4;
 
     private static void InicializarJuego(){
-        IncognitasSalas = new string[cantSalas] {"3A", "EXIT", "PATIO", "a", "a"};
+        IncognitasSalas = new string[cantSalas] {"3A", "EXIT", "PATIO", "LIBERTAD"};
     }    
 
     public static int GetEstadoJuego() {

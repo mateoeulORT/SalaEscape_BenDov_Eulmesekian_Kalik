@@ -3,6 +3,9 @@ html {
   min-height: 100%;
 }
 
+footer{
+  opacity: 0;
+}
 
 @media (min-width: 768px) {
   html {
@@ -76,7 +79,7 @@ footer{
 
 /*    HABITACION 1     */ 
 
-.Hab1, .Hab2 , .Hab3 header{
+.Hab1, .Hab2 , .Hab3, .Hab4 header{
   color: white;
   text-align: center;
 }
@@ -152,23 +155,23 @@ h2{
 }
 
 .boton1 {
-  top: 75%; /* Ajustar posición verticalmente */
-  left: 31.5%; /* Ajustar posición horizontalmente */
+  top: 75%;
+  left: 31.5%;
 }
 
 .boton2{
-  top: 67%; /* Ajustar posición verticalmente */
-  left: 35%; /* Ajustar posición horizontalmente */
+  top: 67%;
+  left: 35%;
 }
 
 .boton3{
-  top: 60%; /* Ajustar posición verticalmente */
-  left: 38%; /* Ajustar posición horizontalmente */
+  top: 60%;
+  left: 38%;
 }
 
 .boton4{
-  top: 55%; /* Ajustar posición verticalmente */
-  left: 39.5%; /* Ajustar posición horizontalmente */
+  top: 55%;
+  left: 39.5%;
 }
 
 
@@ -252,4 +255,58 @@ h2{
 }
 .Hab3 button:hover{
   opacity: 0.04;
+}
+
+.Hab3 h2{
+  color: black;
+}
+
+
+
+/*  - -- - - HABITACION 4- -- -- - */
+.Hab4{
+  background-image: url(../images/patio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  position: relative; 
+}
+.Hab4 header{
+  color: white; /* Prueba con naranja */
+  text-shadow: 2px 2px 4px #000000; /* Sombra de texto */
+}
+
+.Hab4 img{
+  width: 5%;
+  position: absolute;
+  top: 61%;
+  left: 42%;
+  filter: blur(1px);
+}
+.Hab4 h2{
+  color: white;
+  text-align: center;
+}
+
+.Hab4 button{
+  position: absolute;
+  width: 15%;
+  height: 60%;
+  left: 8%;
+  top: 0;
+  opacity: 0;
+}
+.Hab4 button:hover{
+  opacity: 0.04;
+}
+.Hab4 p{
+  color: black;
+  text-align: center;
+}
+.Hab4 div h2{
+  color: red;
+}
+.Hab3 div h2{
+  color: red;
 }
