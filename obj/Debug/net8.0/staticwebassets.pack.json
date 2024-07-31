@@ -1,119 +1,119 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\baño.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\baño.jpg",
       "PackagePath": "staticwebassets\\images\\baño.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\celdaa.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\celdaa.jpg",
       "PackagePath": "staticwebassets\\images\\celdaa.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\chechu.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\chechu.jpg",
       "PackagePath": "staticwebassets\\images\\chechu.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\ciro.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\ciro.jpg",
       "PackagePath": "staticwebassets\\images\\ciro.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\comedor.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\comedor.jpg",
       "PackagePath": "staticwebassets\\images\\comedor.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\cuerda.png",
       "PackagePath": "staticwebassets\\images\\cuerda.png"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.png",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\fondoIndex.png",
       "PackagePath": "staticwebassets\\images\\fondoIndex.png"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\logo.png",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\logo.png",
       "PackagePath": "staticwebassets\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\martillo.png",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\martillo.png",
       "PackagePath": "staticwebassets\\images\\martillo.png"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\patio.jpg",
       "PackagePath": "staticwebassets\\images\\patio.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\roto.png",
       "PackagePath": "staticwebassets\\images\\roto.png"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tute.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\tute.jpg",
       "PackagePath": "staticwebassets\\images\\tute.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\images\\victoria.jpg",
       "PackagePath": "staticwebassets\\images\\victoria.jpg"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\sounds\\escape.mp3",
+      "Id": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\wwwroot\\sounds\\escape.mp3",
       "PackagePath": "staticwebassets\\sounds\\escape.mp3"
     },
     {

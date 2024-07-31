@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj": {}
+    "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj": {
+    "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj",
+        "projectUniqueName": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj",
         "projectName": "SalaEscape_BenDov_Eulmesekian_Kalik",
-        "projectPath": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj",
+        "projectPath": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\SalaEscape_BenDov_Eulmesekian_Kalik.csproj",
         "packagesPath": "C:\\Users\\48044168\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48044168\\Downloads\\SalaEscape_BenDov_Eulmesekian_Kalik\\obj\\",
+        "outputPath": "C:\\Users\\48044168\\Desktop\\SalaEscape_BenDov_Eulmesekian_Kalik\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -15,7 +15,6 @@
         </div> 
     </header>
     
-    
 
     <p>@Html.Raw(ViewBag.Parrafo1)
         @Html.Raw(ViewBag.Parrafo2)
@@ -23,13 +22,13 @@
         @Html.Raw(ViewBag.Parrafo4)
     </p>
 
-    <form action="@Url.Action("MostrarCarta")" method="get">
+    <form class="carta" action="@Url.Action("MostrarCarta")" method="get">
         <button type="input"></button>
     </form>
-    
+
     <form class="envio" action="@Url.Action("Habitacion")">
         <input type="hidden" name="sala" value="1" />
-        <input type="text" name="clave"  placeholder="Respuesta...">
+        <input type="text" name="clave"  autocomplete="off" placeholder="Respuesta...">
         <input type="submit" value="Validar">
     </form>
     <h2>@Html.Raw(ViewBag.Error)</h2>

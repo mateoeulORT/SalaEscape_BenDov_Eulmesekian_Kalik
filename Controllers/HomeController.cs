@@ -110,6 +110,7 @@ public class HomeController : Controller
         return View("Habitacion" + ViewBag.EstadoJuego);
     }
 
+
     public IActionResult ObjetoEncontrado()
     {
         ViewBag.ObjetoEncontrado = true; 
